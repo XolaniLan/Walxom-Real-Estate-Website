@@ -130,7 +130,7 @@ alt = Beach Pros Realty Inc.
 $473.85
 Beach Pros Realty Inc.
 
-2715 Ash Dr. San Jose, South Dakota 83475
+2715 As Dr. San Jose, South Dakota 83475
 
 10 Bed
 8 Bath
@@ -178,7 +178,9 @@ alt = feature banner
 
 We Specialize In Quality Home Renovations
 
-Looking to renovate your home to reflect your style and personality? Look no further than our team of experts who specialize in quality home renovations to transform your space into a dream home you’ll love. From design to execution.
+Looking to renovate your home to reflect your style and personality?
+Look no further than our team of experts who specialize in quality home renovations to transform your space into a dream home you’ll love.
+From design to execution.
 
 <span class="material-symbols-rounded feature-icon" aria-hidden="true">check_circle</span>
 
