@@ -10,7 +10,6 @@
   --primary-90:  #6c5d3d;
   --primary-80: #6c5d3d;
   --primary-40: #6c5d3d;
-  --primary-20: #071833;
   --secondary-100: #21FFFF;
   --secondary-20: #073333;
   --neutral-100: #FAFCFF;
@@ -866,7 +865,7 @@ body {
   #FOOTER
 \*-----------------------------------*/
 .footer {
-  background-color: var(--primary-20);
+  background-color: var(--primary-40);
   color: var(--neutral-90);
 }
 
