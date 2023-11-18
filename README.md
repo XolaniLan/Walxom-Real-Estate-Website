@@ -11,7 +11,7 @@ The Walxom Real Estate website is a platform developed using JavaScript, HTML, a
 
 ## Setup
 
-1. **Clone Repository**: `git clone [repository_url]`
+1. **Clone Repository**: `git clone [https://github.com/XolaniLan/Walxom-Real-Estate-Website.git]`
 2. **Navigate to Directory**: `cd walxom-real-estate`
 3. **Open index.html in a Browser**
 
