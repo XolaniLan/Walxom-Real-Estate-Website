@@ -1,18 +1,38 @@
-<h1>This is real estate website developed with </h1>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
+# Walxom Real Estate Website
 
-<p>Desktop View</p>
-![FireShot Capture 020 - Walxom - 127 0 0 1](https://github.com/XolaniLan/Walxom-Real-Estate-Website/assets/140137794/ee079775-5e90-4cdf-ae85-36f3e40c0047)
-<br>
+The Walxom Real Estate website is a platform developed using JavaScript, HTML, and CSS. Users can search for properties based on property type, location, and view property details.
 
-<p>Tablet View</p>
-![FireShot Capture 022 - Walxom - 127 0 0 1Tablet](https://github.com/XolaniLan/Walxom-Real-Estate-Website/assets/140137794/da0c6db9-cb65-4532-a27a-ff7144d50741)
-<br>
+## Features
 
-<p>Mobile View</p>
-![FireShot Capture 021 - Walxom - 127 0 0 1Mobile](https://github.com/XolaniLan/Walxom-Real-Estate-Website/assets/140137794/d17ca942-f5a6-4608-9df1-46565ff51723)
+- **Search Functionality**: Users can search for properties by type (e.g., house, apartment), location, or other specific criteria.
+- **Property Listings**: Displays a list of available properties based on the user's search criteria.
+- **Property Details**: Provides detailed information about each property, including images, description, price, and additional features.
+- **Responsive Design**: Ensures compatibility and usability across different devices.
 
+## Setup
+
+1. **Clone Repository**: `git clone [repository_url]`
+2. **Navigate to Directory**: `cd walxom-real-estate`
+3. **Open index.html in a Browser**
+
+## Usage
+
+- **Search Properties**: Use the search bar or filters to find properties based on type, location, etc.
+- **View Property Details**: Click on a property card or listing to view detailed information.
+- **Contact Seller/Agent**: Contact information or inquiry forms for each property.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Future Improvements
+
+- Implement user accounts for saving favorite properties or managing preferences.
+- Add a mapping feature to display property locations on a map.
+- Incorporate more detailed filtering options for enhanced search capabilities.
+- Improve UI/UX for better user interaction and engagement.
+
+## Contributors
+- Xolani Lan Shongwe
